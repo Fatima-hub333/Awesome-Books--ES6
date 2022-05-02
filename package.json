@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Fatima-hub333/Awesome-Books--ES6/issues"
   },
-  "homepage": "https://github.com/Fatima-hub333/Awesome-Books--ES6#readme"
+  "homepage": "https://github.com/Fatima-hub333/Awesome-Books--ES6#readme",
+  "devDependencies": {
+    "hint": "^6.1.12"
+  },
+  "dependencies": {
+    "luxon": "^2.3.2"
+  }
 }
