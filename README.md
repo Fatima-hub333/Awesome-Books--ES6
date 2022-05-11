@@ -9,15 +9,17 @@
 
 ![text](./images/awesome-1.png) ![text](./images/awesome-2.png) ![text](./images/awesome-3.png)
 
+![screenshot](images/awesomebooks.png)
+
+## Live Demo
+
+[Live Demo Link](http://www.fatima-awesomebooks.edu/)
+
 ## Built With
 
 - HTML
 - CSS
 - JavaScript (using ES6 modules and classes)
-
-<!-- ## Live Demo
-
-[Live Demo Link](https://rbanos-mv.github.io/awesome-books-es6/) -->
 
 ### Prerequisites
 
@@ -26,16 +28,16 @@
 - Create a function to remove a book from the collection.
 - Display all books saved in the collection in the top part of the page.
 - Make sure that when a user clicks the "Add" button.
-  Make sure that when a user clicks the "Remove" button.
+- Make sure that when a user clicks the "Remove" button.
 - Make sure that data is preserved in the browser's memory by using localStorage.
 
 ### Setup
 If you installed git you can clone the code to your machine, or download a ZIP of all the files directly.
 
-[Download the ZIP from this location](https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
+[Download the ZIP from this location](https://github.com/Fatima-hub333/Awesome-Books--ES6/archive/refs/heads/main.zip), or run the following [git](https://git-scm.com/downloads) command to clone the files to your machine:
 
 ```bash
-git clone https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton.git
+git clone https://github.com/Fatima-hub333/Awesome-Books--ES6.git
 ```
 
 - Once the files are on your machine, open the _Portfolio_ folder in [Visual Studio Code](https://code.visualstudio.com/).
@@ -62,7 +64,7 @@ The following tools help make easier to work with sample code.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Fatima-hub333/Portfolio_Mobile_Version_Skeleton-1/issues).
+Feel free to check the [issues page](https://github.com/Fatima-hub333/Awesome-Books--ES6/issues).
 
 ## Show your support
 
