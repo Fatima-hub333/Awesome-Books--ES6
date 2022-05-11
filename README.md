@@ -12,8 +12,7 @@
 ![screenshot](images/awesomebooks.png)
 
 ## Live Demo
-
-[Live Demo Link](http://www.fatima-awesomebooks.edu/)
+(http://www.fatima-awesomebooks.edu/)
 
 ## Built With
 
